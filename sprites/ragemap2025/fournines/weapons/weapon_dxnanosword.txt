@@ -1,0 +1,3 @@
+2
+weapon		640 	ragemap2025/fournines/weapons/640hudnanosword	0	0	170	45
+weapon_s		640 	ragemap2025/fournines/weapons/640hudnanosword	0	46	170	45

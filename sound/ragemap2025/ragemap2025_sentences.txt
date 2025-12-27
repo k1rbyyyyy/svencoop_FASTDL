@@ -1,0 +1,3 @@
+// grunt
+GRUNT_DRILL_START vox/access(p110), granted(p110), engage(p110)
+GRUNT_INITIATE_DETONATION vox/target(p110), acquired(p110), buzwarn(p110), detonation(p110), in(p110), thirty(p110), seconds(p110), bizwarn(p110)

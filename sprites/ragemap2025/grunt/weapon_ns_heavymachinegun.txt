@@ -1,0 +1,5 @@
+27
+weapon			640 ragemap2025/grunt/640mw2	0	45	170	45
+weapon_s		640 ragemap2025/grunt/640mw2-s	0	45	170	45
+ammo			640 ragemap2025/grunt/640hud7	0	96	24	24
+crosshair		640 ragemap2025/grunt/xhairmw1 0	160	40	40

@@ -1,0 +1,16 @@
+- Grunt:
+
+   - Unknown Worlds Entertainment for the Natural Selection models and textures.
+   - Meryilla for the Natural Selection weapon and monster scripts.
+
+- Four-Nines:
+
+   - slowdivide and Valkyst for help and support.
+   - Models sourced from the following maps:
+      - Black Hawk (demons, melee weapons)
+      - Richard Boderbot (robo drone and agrunt)
+      - TheyRHungry (shotgun)
+   - Xatrix Interactive for Thug voicelines (Kingpin: Life of Crime).
+   - Ion Storm for various sound effects (Deus Ex).
+   - Epic Games for various sound effects (Unreal Tournament 99).
+   - BouncyTEM for the announcer voice (Zandronum Generic Announcer PK3).
