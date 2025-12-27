@@ -1,0 +1,14 @@
+Title			: Omg2
+Game			: Half-Life SvenCoop
+Author			: Turrican
+Contact-
+	AIM		: Furrican
+Web Address		: http://turrican.decksix.com
+Description		: messing about map
+
+
+Sequel to the strangely popular svencoop map 'omg'. Omg2, like its predecessor, is all about fun. obstacle courses, high jumps, and lots of ways to die. No monsters to kill, this is mainly a relaxation and fun map.
+
+The level of detail is greatly increased from that of the origional omg. This is not only to make it more difficult to decompile, but because the first omg kind of hurt my reputation as a mapper with its basic architecture.
+
+The map contains a custom sky, by the artist Chalupamonk, http://www.planethalflife.com/atmosphere

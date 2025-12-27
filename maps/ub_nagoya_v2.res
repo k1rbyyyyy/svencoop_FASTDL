@@ -1,0 +1,13 @@
+maps/ub_nagoya_v2.txt
+maps/ub_nagoya_v2.cfg
+models/ub_nagoya/p_katana.mdl
+models/ub_nagoya/v_katana.mdl
+models/ub_nagoya/w_katana.mdl
+models/ub_nagoya/w_katana_standing.mdl
+models/ub_nagoya/sam.mdl
+sound/ub_nagoya/wav001.wav
+sound/ub_nagoya/wav100.wav
+sound/ub_nagoya/wav101.wav
+sound/ub_nagoya/wav102.wav
+sound/ub_nagoya/wav103.wav
+sound/ub_nagoya/wav104.wav

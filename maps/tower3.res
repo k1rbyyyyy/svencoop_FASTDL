@@ -1,0 +1,10 @@
+gfx/env/dwellbk.tga
+gfx/env/dwelldn.tga
+gfx/env/dwellft.tga
+gfx/env/dwelllf.tga
+gfx/env/dwellrt.tga
+gfx/env/dwellup.tga
+tower.wad
+maps/tower3_motd.txt
+maps/tower3.cfg
+masp/tower3.res

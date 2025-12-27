@@ -1,0 +1,52 @@
+-------------------------------------
+SC_Subwaytrain Beta Readme file
+-------------------------------------
+
+Map name: Subwaytrain.
+Map type: Half-life Svenco-op
+Map count: 1
+Map Size: 2 MB
+Author:Dutchtux
+Author E-mail:Dutchtux@planet.nl
+Players can play: 1 to 8 (Yes you can play it as single :P)
+Custom textures: Yes (added in BSP)
+Custum Models: Yes (osprey and Sci Grunt :D)
+Story: No not realy.
+Compile times:
+	CSG process 0h 0m 21s 
+	BSP process 0h 0m 10s 
+	VIS process 0h 6m 5s 
+	RAD process 0h 27m 34s 
+Compile system: look at http://rcs.valve-erc.com for the system configuration.
+
+-------------------------------------
+Some kind of story
+-------------------------------------
+Well You must do in this map is get to the osprey as fast as you can!
+
+-------------------------------------
+Installing
+-------------------------------------
+
+All you must do is extract this zip file in you half-life directory.
+And youmust set that you extract the directory to.
+
+-------------------------------------
+Disclaimer
+-------------------------------------
+
+USING MODELS/TEXTURES:
+You may use the models only for a Svenco-op map but not any other mod,SP Mod or upcomming mods.
+You may reskin the models and decompile them.Only if you going to use it for Svencoop map or for your own.
+
+MAP RULES:
+You may not decompile or edit so that the structure of the map is getting changed.
+You may use ripent to change some stuff.(to make it harder or making it more fun)
+You can get the source files of this map after one year when it's released.
+
+DOWNLOADING AND MIRRORING THIS MAP:
+You can download this map from Dutchtux Mappers homepage for free.
+This zip file may not be distributed on any CD-Rom,DVD,Disk or any other media-save without premission of the author
+You may not upload this map on a public mirror without premission of the author.
+When uploading this on a public mirror the downloaders dont need to download special "Download software" or not need to charge money for it.
+When mirroring you must have include the original files (including this one) in the zip file.

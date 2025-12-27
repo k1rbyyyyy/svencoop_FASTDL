@@ -1,0 +1,13 @@
+UB_NAGOYA_V2
+by uliboh
+
+--------------------------------------------------
+
+CREDITS:
+
+PU_1338 (katana.mdl)
+Alvador[y2k] + Turrican (sam.mdl)
+kook (texture + testing)
+inuzirou (testing)
+Clan =High= members (testing)
+--------------------------------------------------

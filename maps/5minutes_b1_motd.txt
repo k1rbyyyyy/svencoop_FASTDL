@@ -1,0 +1,14 @@
+5minutes ( beta 1 )
+
+Author
+    uliboh
+
+Date
+    02/28/2009
+
+Filename
+    5minutes_b1.bsp
+
+Mission
+    kill all Aliens within 5 minutes
+

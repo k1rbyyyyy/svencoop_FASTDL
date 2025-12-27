@@ -1,0 +1,10 @@
+gfx/env/Londonbk.tga
+gfx/env/Londondn.tga
+gfx/env/Londonft.tga
+gfx/env/Londonlf.tga
+gfx/env/Londonrt.tga
+gfx/env/Londonup.tga
+tower.wad
+maps/tower1_motd.txt
+maps/tower1.cfg
+masp/tower1.res

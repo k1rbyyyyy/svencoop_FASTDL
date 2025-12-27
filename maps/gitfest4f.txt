@@ -1,0 +1,38 @@
+Gitfest4f 
+
+a SvenCo-op map by (GIT)r-man
+http://www.btinternet.com/~M.D.Richardson/
+gitrmanuk@yahoo.co.uk
+
+This was my attempt to push the boundries of WorldCraft 3.3 and the Half-Life engine to their limits...
+Looks good on my GeForce3 at 1280x960 resolution,
+but the custom textures look blurry on my 16mb Vanta at 1024x768 so I guess it's system dependent...
+
+There are more trigger_randoms in this map than I can count so each time you play it should be different
+
+The following are the credits for the custom sky and the textures 
+I converted to HL.wad format from jpgs I found on the internet:-
+
+SKY
+
+Title:			"London Skymap"
+Filename:		london.zip
+Version:		2000-08-19
+Filesize:		787 kb
+Author:			Marc Schroeder aka Term
+Email:			audion@spaceman.de / spaceman@muenster.de
+Homepage:		http://www.spaceman.de/audion
+
+TEXTURES
+
+Title                   : IK2K textures, 24bit (for Q3A & others) 
+Date                    : 2/22/2001
+Author                  : Iikka "Fingers" Keranen
+                          (or Ker&auml;nen if you like em dots better)
+Email Address           : fingers@mail.planetquake.com
+Home Page               : www.digital-eel.com/surface/
+
+                       
+                        &
+
+Max Payne textures (C)1998-2001 Remedy Entertainment Ltd.

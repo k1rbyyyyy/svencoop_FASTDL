@@ -1,0 +1,78 @@
+sc5x_bonus
+----------
+
+HIDE AND SEEK
+
+Hiders [Blue]:
+Stay hidden for as long as you can. Don't get caught.
+
+Seeker [Red]:
+Find the hiders. Catch them. (By "tagging" them with your knife.)
+
+The Captured Room:
+When a hider is found and caught, they go to the Captured Room.
+Once captured you cannot re-join the round unless another hider sets you free with the "Security Override" button.
+
+Each round lasts 5 minutes before it resets.
+
+TO SWITCH BETWEEN HIDER/SEEKER
+
+* To become a hider say ".hider" in the text chat.
+* To become a seeker say ".seeker" in the text chat.
+* By default you will be a hider when joining the game.
+* Seekers will be reset to hiders at the end of every round. Please give others a fair chance to play as a seeker.
+* Use console command "hns" to see the game rules/settings.
+
+There are two main areas beyond the subway, which are the Docks and the City. Access to these areas alternates each round.
+Faint red lasers are a visual indication of the map boundary. (They don't hurt.) You can't jump over them though so don't bother trying.
+
+----------
+
+General hiding tips:
+
+Keep moving.
+
+* Moving from one spot to another as often as possible decreases your chances of getting caught !
+* Try not to all stay bunched up for easy pickings.
+* Try not to get chased by a seeker directly. They can run faster than you, and will likely catch you. Be sneaky instead.
+
+Use your imagination.
+
+* A lot of good hiding places can be found by good observation and some clever jumping.
+* You aren't limited to the obvious places. (E.g. many vent covers don't need to be broken to get into.)
+
+You can "hang" from the ledges of exposed vents.
+
+* This allows you to "shimmy" to otherwise inaccessible places.
+
+Shadows are your friend.
+
+* Several lights around the city can be turned off and on.
+* There are also many dark areas around the city.
+
+Communicate carefully.
+
+* Text chat will ONLY be kept secret among your team if you use the team say function. Bind something to `messagemode2` for that.
+* Voice chat will NEVER be kept secret among your team. This can reveal your position.
+* Using "medic" and "take cover" can stupidly reveal your position, but can be used as a taunt if you dare.
+
+----------
+
+Map by Kami
+www.banzaimaps.co.uk
+kami@banzaimaps.co.uk
+
+Check out www.banzaimaps.co.uk for the latest info on this map and all my other maps.
+
+
+
+--------------------------------------------------------------------------------
+
+Ported to Sven Co-op by Adam "Adambean" Reece.
+Thanks to Zode for scripting tips.
+Thanks to Gauna and Zode for testing the port and verifying bug fixes.
+
+Originally a custom map for Team Fortress Classic.
+
+Version 1.1 [2021-01-24]
+Get the latest version at http://scmapdb.com/map:sc5x_bonus

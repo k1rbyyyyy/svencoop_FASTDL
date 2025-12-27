@@ -1,0 +1,13 @@
+maps/sledge.cfg
+maps/sledge.res
+maps/sledge.txt
+models/sledge/hgrunt.mdl
+models/sledge/hgrunt01.mdl
+models/sledge/hgrunt02.mdl
+models/sledge/hgrunt03.mdl
+models/sledge/hgruntt.mdl
+models/sledge/hwgrunt.mdl
+models/sledge/p_bgun.mdl
+models/sledge/p_tgun.mdl
+models/sledge/v_tgun.mdl
+models/sledge/w_tgun.mdl

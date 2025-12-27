@@ -1,0 +1,112 @@
+Less than 30 deaths will do you good.
+
+=========================================================
+Title			: Never 09 Edition
+Filename		: never.bsp
+Game			: Half-Life SvenCoop (4.0Beta onwards)
+Author			: Ryan Heeley aka BMT
+Description		: Somewhere in the Xen dimension
+
+The operation was a joke. Our HEV task force was tricked. Fooled into travelling to Xen on a "top priority" mission, instead being deceived and thrown into captivity, sold away by the very man that sent us.  Why are we still alive?
+
+This dimension has some sort of weird effect on the subconscious... seeing visions.. hearing voices?
+
+RECOMMENDED FOR 3-6 PLAYERS
+
+=========================================================
+* Info *
+
+Single Player		: Hell no (you'll get stuck at several places)
+Cooperative		: Yes
+New Sounds		: Yes - Additional Soundtrack by Doc
+			Other misc sounds - BMT trying to sound cool.
+					  - GITS-SAC
+New Graphics		: Textures - 6 new additions from Gundam Chronicles
+			Few stole from project guilty, thanks MysticMDT ;)
+			Few from the wonderful world of animé
+			  Models - Alien Slave - Friendly Garg (http://www.planethalflife.com/garg/)
+				- Slime - Warpzone (warpzone32@yahoo.com) [No longer used, but now in Incoming!]
+				- Ai Gunner - Gunman Chronicles
+				- Apache - SvenCoop
+				- Evil Controller - Penguin (phil-w@rocketmail.com)
+New Sky			: Nope, but a very underused valve one ;)
+
+=========================================================
+
+* Some Old Unneccassary Rambling *
+
+The Map			: Made from scratch
+Editor(s)		: Worldcraft 3.3, Valve Hammer Editor 3.4, Wally, Notepad, ZHLT, HLCC, Sound Recorder
+Known Bugs		: The map is known throughout beta testing to crash due to entity overload. This is highly reduced.
+			
+			On one occasion the final controller boss didn't start moving, not sure why this is and hasn't 					happened again since.
+
+			People used to crash with the slave in the beginning. Fixed by replacing Slave. Shame, the first 			slave was a bloody good model. Never mind, gameplay over looks ;)
+			
+			Using cheats will crash the map, I find this as a very useful advantage ;D
+			
+Build Time		: Seven months on/off (Real time probably around 100 hours)
+Build Machine		: AMD 1800+ 1.53ghz, 256MB DDR, 3D Prophet II MX (Geforce II spinoff)
+Compile Time		: Around 40 minutes
+
+R_speeds			: Seems pretty damn good throughout! Older systems may experience slowdown in some areas.
+
+Author's Notes		: Yippee got -wadinclude working. Now you can't view those textures from the secret area, HAHAHA :P
+
+		The map is about 4 marks off the entity limit (that includes point and world entities), so don't whine about 		some areas lacking detail.
+
+		There may be a brief pause in the beginning of the map, this is your PC building the node graph. Give it a 		minute.
+
+		Thanks to the following artists: Blur, Blink 182, Alien Ant Farm, A, Gorillaz, Oasis, Jamiroquai, MxPx
+
+		Thanks to the whole of the SvenCoop community.. Since Incoming I have joined what I like to call the "IRC 		Saga". The following regular's need a special mention:
+		
+		Sankis
+		SilverHorse
+		Qualjyn
+		Turrican
+		Kaneda
+		Cranberry
+		Nomble
+		Creeping Death
+		The Real Game
+		Suicidal
+		And ofcourse a big up to the Cumbrian Massive, AgentProp and Edcrab
+
+		Oh and btw you WILL die alot in this map. But try not to die too much ;)
+
+		At one point this map was named Serial Experiments Never, guess I got too attatched to animé.
+
+=========================================================
+
+Installation:
+
+Extract to your Half-Life directory with sub-folders enabled in your unzipping program.
+That's all there is to it! It'll install to SvenCoop itself.
+
+=========================================================
+
+*** POINTLESS PLUGS!!! ***
+
+Go to http://www.svencoop.com for... take a goddamn guess hotshot!
+
+Go to http://bmtwigzta.cjb.net for no reason at all! Just go!
+
+Go to http://www.bob-o-buds.com for the best source of totally outrageous HL experimental changes to make the 								game a helluva lot more interesting!
+
+Go to http://www.dj-mrmagic.co.uk for all your soulful house-ing needs! Oh yeah drop in at one of his SC servers while you 					are at it ;D
+
+
+*** The Guide!!! TEH SPOILERS!!! DONT READ IF YOU AINT PLAYED IT YET!!! ***
+
+Okay, this damn map has even more totally frustrating areas. First of all ofcourse is the first area. This is where the map is intended for at least 4 people. You dudes have to run your arses off. Using one person as a decoy is a good idea. Get him/her to run and get shot to crap while you run past, grab the hornet and get rid of those alien scum. While you've got one person taking care of hornets, some of the others should be thinking about the "not too hard to understand" puzzle of shooting the two blocks in the centre of the nearby floating thingies. Watch out tho, you miss the squares and you and your colleagues standing on the islands die of poison, muahaha.
+
+After that, stop the damaging water by knocking the generator off. Lower the water by going through the duct and using the nearby crowbar. Get rid of the two doors then smash the floor surrounded by the four marks. You're now at section two.
+
+Press the button, don't fall into the room.. yet ;) Do the high high high dive to the spiral that can be spotted down below next to the island. Jump back up and get into the large square room.
+
+Now this is the bit i'm proud of. Get those 4 triangles into the 4 holes. Easy eh? haha you'll just have to find out. To stop the monsters spawning you have to give those glows above a whack.
+
+And now comes the end boss battle. Hooray ;D Simple.. just shoot the circling alien controller. well actually, it's best to have some of your teammates take control of the spawning monsters while you take the boss out. Once one person has acquired the weapons situated in high places they should be easier to pickup when spawning. Watch out for random explosions too... MAUAHA I'm soooo nasty. >:) Well, once the boss is down and out, you're home free. Congratulations!......... loser.. you had to read this to win?!??!? pah.
+
+HAHA that's where you think it ends right? As well as the secret area, there is an ending beyond section three, perhaps if you completed the map without dying so much you'd be able to see it...
